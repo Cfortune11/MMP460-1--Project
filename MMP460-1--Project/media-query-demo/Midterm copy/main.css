@@ -1,0 +1,32 @@
+*{
+	margin:0;
+	padding: 0; 
+	box-sizing: border-box;
+}
+
+body{
+	background-color:#F6DDCC ;
+}
+
+
+
+/*Navigation styles*/nav{
+background-color: skyblue;
+}
+nav ul{
+	list-style: none;
+}
+nav li {
+	display: inline;
+}
+nav a{
+	display: inline-block;
+	padding: 20px;
+	color:black;
+	text-decoration: none;
+}
+
+nav a:hover {
+	background-color:black ;
+	color: white;
+}
