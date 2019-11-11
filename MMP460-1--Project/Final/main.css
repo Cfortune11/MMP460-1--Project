@@ -21,7 +21,7 @@ img{
 }
 
 /*Navigation styles*/nav{
-background-color: #D40000;
+background-color: #ffffff;
 }
 nav ul{
 	list-style: none;
@@ -37,6 +37,6 @@ nav a{
 }
 
 nav a:hover {
-	background-color:black ;
-	color: white;
+	background-color:#29abe2 ;
+	color:black;
 }
